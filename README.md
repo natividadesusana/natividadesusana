@@ -3,7 +3,7 @@ Que bom ver você por aqui, seja bem vindo!
 
 - 🌱 Estudando Lógica de Programação, HTML, CSS, JavaScript
 
-<div align="auto">
+<div align="left">
   <a href="https://github.com/susanasn">
   <img height="=180em" src="https://github-readme-stats.vercel.app/api?username=susanasn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanasn&layout=compact&langs_count=7&theme=dark"/>
