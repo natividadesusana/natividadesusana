@@ -1,11 +1,11 @@
-### Olá, meu nome é Susana Natividade 😄
-Que bom ver você por aqui, seja bem vindo!
+### Oii eu sou Susana Natividade, Bom ver você por aqui!
+##
 
 - 🌱 Estudando Lógica de Programação, HTML, CSS, JavaScript
 
 <div align="left">
   <a href="https://github.com/natividadesusana">
-  <img height="=180" src="https://github-readme-stats.vercel.app/api?username=natividadesusana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="=160" src="https://github-readme-stats.vercel.app/api?username=natividadesusana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natividadesusana&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
