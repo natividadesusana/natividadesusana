@@ -1,5 +1,5 @@
 ## Oii eu sou Susana Natividade, Bom ver você por aqui!
-- 🌱 Estudando Lógica de Programação, HTML, CSS, JavaScript
+- 🌱 Estudando Programação
 
 <div align="center">
   <a href="https://github.com/natividadesusana">
