@@ -1,5 +1,5 @@
-## Oii eu sou Susana Natividade, Bom ver você por aqui!
-- 🌱 Estudando Programação
+## Hi, there! Good to see you here :)
+- 🌱 studying software development
 
 <div align="center">
   <a href="https://github.com/natividadesusana">
