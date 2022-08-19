@@ -1,4 +1,4 @@
-## Hi, there! Good to see you here :)
+## Hi, there! Good to see you here (:
 
 <div align="center">
   <a href="https://github.com/natividadesusana">
