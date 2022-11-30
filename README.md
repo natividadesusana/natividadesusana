@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/natividadesusana">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=natividadesusana&show_icons=true&theme=rose_pine"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natividadesusana&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=natividadesusana&show_icons=true&theme=rose_pine&bg_color=00000000"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natividadesusana&layout=compact&langs_count=7&theme=rose_pine&bg_color=00000000"/>
 </div>
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
