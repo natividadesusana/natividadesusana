@@ -1,4 +1,4 @@
-## *Hey, I'm Sana!* <img width=40 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >
+## *Hi there!* <img width=40 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >
 
 <div align="center">
   <a href="https://github.com/natividadesusana">
