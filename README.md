@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey)
+
 ## *Hi there!* <img width=40 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >
 
 <div align="center">
