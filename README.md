@@ -1,13 +1,15 @@
 ## *Hi there!* <img width=40 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >
-
+<br>
 <div align="center">
   <a href="https://github.com/natividadesusana">
   <img height="172em" src="https://github-readme-stats.vercel.app/api?username=natividadesusana&count_private=true&show_icons=true&theme=rose_pine&bg_color"/>
   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natividadesusana&layout=compact&langs_count=10&theme=rose_pine&bg_color"/>
 </div>
-
+  
 <div style="display: inline_block"><br>
-  <div style="display: inline_block"><br>
+  
+  #### *Languages and Tools:*  
+  
   <img align="center" alt="natividadesusana-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="natividadesusana-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="natividadesusana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,10 +19,11 @@
   <img align="center" alt="natividadesusana-FASTAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg">
   <img align="center" alt="natividadesusana-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="natividadesusana-POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    
 </div>
   
-  ##
+  #
+  
+  #### *Talk with me:*
 <div> 
   <a href="https://www.linkedin.com/in/natividadesusana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:susanajdsn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
