@@ -1,7 +1,5 @@
 ## *Hi there!* <img width=40 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >
 
-<!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/95102911/220199162-52379714-196c-4647-8f67-3d3a134d0d7b.png?raw=true" width="500" height="320" /> -->
-
 <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="500" height="320" />
 
 - 🪴 Currently studying Software Engineering and Web Development at Driven Education.
