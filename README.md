@@ -1,6 +1,6 @@
 ## *Hi there!* <img width=40 src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >
 
-<img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="500" height="320" margin-left="10"/>
 
 - 🪴 Currently studying Software Engineering and Web Development at Driven Education.
 - 🎓 In the process of graduating in Analysis and Systems Development at the University of the Itajaí Valley.
