@@ -5,18 +5,19 @@
 <br>
 <br>
 
-🪴 Currently studying Software Engineering and Web Development at Driven Education.\
-🎓 In the process of graduating in Analysis and Systems Development at the University of the Itajaí Valley.\
-✍  You can find my projects in the repositories.\
-💬 Ask me about... Anything.\
-😊 Pronouns: She/Her.\
-🫧 Curiosity: I love learning new things, getting to know new cultures and traveling the world.
+🪴 &nbsp;Currently studying Software Engineering and Web Development at Driven Education.\
+🎓 &nbsp;In the process of graduating in Analysis and Systems Development at the University of the Itajaí Valley.\
+✍  &nbsp;You can find my projects in the repositories.\
+💬 &nbsp;Ask me about... Anything.\
+😊 &nbsp;Pronouns: She/Her.\
+🫧 &nbsp;Curiosity: I love learning new things, getting to know new cultures and traveling the world.
+
 
 <br>
 <br>
   
 ### *Languages and Tools:*  
-  
+
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
   ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?&style=flat&logo=FastAPI)&nbsp;
@@ -42,7 +43,7 @@
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=Adobe%20Photoshop)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-05122A?&style=flat&logo=Canva)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-05122A?&style=flat&logo=figma)&nbsp;
-  
+
   #
   
 ### *Connect with Me:*
