@@ -5,13 +5,12 @@
 <br>
 <br>
 
-🪴 &nbsp;Currently studying Software Engineering and Web Development at Driven Education.\
+🎓 &nbsp;Currently studying Software Engineering and Web Development at Driven Education.\
 🎓 &nbsp;In the process of graduating in Analysis and Systems Development at the University of the Itajaí Valley.\
-✍  &nbsp;You can find my projects in the repositories.\
-💬 &nbsp;Ask me about... Anything.\
-😊 &nbsp;Pronouns: She/Her.\
-🫧 &nbsp;Curiosity: I love learning new things, getting to know new cultures and traveling the world.
-
+🌟 &nbsp;You can find my projects in the repositories section.\
+💬 &nbsp;Ask me about... Anything. I'm always eager to learn and help!\
+🌈 &nbsp;Pronouns: She/Her.\
+🌍 &nbsp; I have a passion for learning new things, exploring different cultures, and traveling the world. Let's connect and share our experiences!
 
 <br>
 <br>
