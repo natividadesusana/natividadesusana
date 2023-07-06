@@ -5,7 +5,7 @@
 <br>
 <br>
 
-🎓 &nbsp;Currently studying Software Engineering and Full Stack Web Development at Driven Education.\
+🎓 &nbsp;Currently studying Full Stack Web Development and Software Engineering at Driven Education.\
 🎓 &nbsp;In the process of graduating in Analysis and Systems Development at the University of the Itajaí Valley.\
 🌟 &nbsp;You can find my projects in the repositories section.\
 💬 &nbsp;Ask me about... Anything. I'm always eager to learn and help!\
