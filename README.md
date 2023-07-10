@@ -17,35 +17,37 @@
   
 ### *Languages and Tools:*  
 
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?&style=flat&logo=FastAPI)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Prisma](https://img.shields.io/badge/Prisma-05122A?style=flat&logo=Prisma)
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![Styled Components](https://img.shields.io/badge/Styled--Components-05122A?style=flat&logo=styled-components)&nbsp;
   ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-  ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=Webpack)&nbsp;
+   ![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+  ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?&style=flat&logo=FastAPI)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-  ![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm&logoColor=white)&nbsp;
-  ![VSCode](https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visual%20studio%20code&logoColor=blue)&nbsp;
+  ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=Webpack)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+  ![VSCode](https://img.shields.io/badge/VSCode-05122A?style=flat&logo=visual%20studio%20code&logoColor=blue)&nbsp;
   ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)&nbsp;
   ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
   ![Trello](https://img.shields.io/badge/Trello-05122A?style=flat&logo=trello&logoColor=blue)&nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-05122A?&style=flat&logo=figma)&nbsp;
   ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-05122A?style=flat&logo=intellij-idea&logoColor=pink)&nbsp;
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=Adobe%20Photoshop)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-05122A?&style=flat&logo=Canva)&nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-05122A?&style=flat&logo=figma)&nbsp;
 
   #
   
