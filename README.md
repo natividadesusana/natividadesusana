@@ -39,6 +39,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+  ![Redis](https://img.shields.io/badge/Redis-05122A?&style=flat&logo=Redis&logoColor=red)&nbsp;
   ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=Webpack)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![Colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab)&nbsp;
