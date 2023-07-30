@@ -74,18 +74,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img height="172em" alt="Susana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=natividadesusana&count_private=true&show_icons=true&theme=rose_pine&bg_color"/>
-
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
-<img height="172em" alt="Susana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natividadesusana&layout=compact&langs_count=10&theme=rose_pine&bg_color&hide=python"/>
-
+  <img height="172em" alt="Susana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natividadesusana&layout=compact&langs_count=10&theme=rose_pine&bg_color&hide=python"/>
 </details>
 
-   ![Snake animation](https://github.com/natividadesusana/natividadesusana/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
