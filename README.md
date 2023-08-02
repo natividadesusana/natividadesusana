@@ -14,7 +14,9 @@
 
 <br>
 <br>
-  
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ### *Languages and Tools:*  
 
   ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -61,7 +63,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-05122A?&style=flat&logo=figma)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-05122A?&style=flat&logo=Canva)&nbsp;
 
-  #
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   
 ### *Connect with Me:*
 
@@ -80,5 +82,10 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
   <img height="172em" alt="Susana's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natividadesusana&layout=compact&langs_count=10&theme=rose_pine&bg_color&hide=python"/>
+</details>
+
+<details>
+  <summary>:zap: Github Streak Stats</summary>
+  <img height="172em" alt="Susana's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=natividadesusana&theme=rose_pine&bg_color&hide=python"/>
 </details>
 
