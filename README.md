@@ -7,10 +7,12 @@
 
 🎓 &nbsp;Currently studying Full Stack Web Development and Software Engineering at Driven Education.\
 🎓 &nbsp;In the process of graduating in Analysis and Systems Development at the University of the Itajaí Valley.\
-🌟 &nbsp;You can find my projects in the repositories section.\
-💬 &nbsp;Ask me about... Anything. I'm always eager to learn and help!\
-🌈 &nbsp;Pronouns: She/Her.\
-🌍 &nbsp; I have a passion for learning new things, exploring different cultures, and traveling the world. Let's connect and share our experiences!
+⭐ &nbsp;You can find my projects in the repositories section.\
+💬 &nbsp;Ask me about anything! I don't know everything, but I'd love to know more.\
+🧩 &nbsp;Passionate about solving challenges.\
+☕ &nbsp;I love coffee.\
+😄 &nbsp;Pronouns: She/Her.\
+🌍 &nbsp;Curiosity: I love exploring different cultures, learning new things and traveling the world.
 
 <br>
 <br>
