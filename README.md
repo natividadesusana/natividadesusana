@@ -14,7 +14,7 @@
 😄 &nbsp;Pronouns: She/Her.\
 🌍 &nbsp;Curiosity: I love exploring different cultures, learning new things and traveling the world.
 
-<img src="https://images.hive.blog/0x0/https://files.peakd.com/file/peakd-hive/pandachef/23tGTm3M2pmkfzAFkNHC7YajXaHb6jaNQYueWaoRvDiXnN75ByGDftTvq8rt4XA4h1Cgx.gif" width="100%" height="50">
+<img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
 
 ### *Languages and Tools:*  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
@@ -85,7 +85,8 @@
   ![Eslint](https://img.shields.io/badge/-Eslint-000?style=for-the-badge&logo=eslint)&nbsp;
   ![Prettier](https://img.shields.io/badge/-Prettier-000?style=for-the-badge&logo=prettier)&nbsp;
   ![Microsoft_Excel](https://img.shields.io/badge/-Microsoft_Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green)&nbsp;
-<img src="https://images.hive.blog/0x0/https://files.peakd.com/file/peakd-hive/pandachef/23tGTm3M2pmkfzAFkNHC7YajXaHb6jaNQYueWaoRvDiXnN75ByGDftTvq8rt4XA4h1Cgx.gif" width="100%" height="50">
+  
+<img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
 
 ### *Connect with Me:*
 
