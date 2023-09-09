@@ -14,13 +14,9 @@
 😄 &nbsp;Pronouns: She/Her.\
 🌍 &nbsp;Curiosity: I love exploring different cultures, learning new things and traveling the world.
 
-<br>
-<br>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://images.hive.blog/0x0/https://files.peakd.com/file/peakd-hive/pandachef/23tGTm3M2pmkfzAFkNHC7YajXaHb6jaNQYueWaoRvDiXnN75ByGDftTvq8rt4XA4h1Cgx.gif" width="100%" height="50">
 
 ### *Languages and Tools:*  
-
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)&nbsp;
   ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)&nbsp;
@@ -89,10 +85,8 @@
   ![Eslint](https://img.shields.io/badge/-Eslint-000?style=for-the-badge&logo=eslint)&nbsp;
   ![Prettier](https://img.shields.io/badge/-Prettier-000?style=for-the-badge&logo=prettier)&nbsp;
   ![Microsoft_Excel](https://img.shields.io/badge/-Microsoft_Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green)&nbsp;
-  
+<img src="https://images.hive.blog/0x0/https://files.peakd.com/file/peakd-hive/pandachef/23tGTm3M2pmkfzAFkNHC7YajXaHb6jaNQYueWaoRvDiXnN75ByGDftTvq8rt4XA4h1Cgx.gif" width="100%" height="50">
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-  
 ### *Connect with Me:*
 
 <div> 
