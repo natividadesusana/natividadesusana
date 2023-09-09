@@ -25,34 +25,40 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)&nbsp;
   ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)&nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5)&nbsp;
-  ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=blue)&nbsp;
   ![Styled Components](https://img.shields.io/badge/Styled--Components-000?style=for-the-badge&logo=styled-components)&nbsp;
   ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)&nbsp;
   </br>
-  . . .
+   ➖➖➖➖
   </br>
   ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)&nbsp;
   ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)&nbsp;
   ![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=red)&nbsp;
-  ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma)
   ![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=Jest&logoColor=red)&nbsp;
+  ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma)&nbsp;
+  ![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=green)&nbsp;
   </br>
-  . . .
+    ➖➖➖➖
   </br>
   ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)&nbsp;
   ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)&nbsp;
   ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&style=for-the-badge&logo=FastAPI)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)&nbsp;
   </br>
-  . . .
+    ➖➖➖➖
+  </br>
+  ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)&nbsp;
+  ![Swagger](https://img.shields.io/badge/Swagger-000?style=for-the-badge&logo=Swagger)&nbsp;
+  ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws)&nbsp;
+  </br>
+    ➖➖➖➖
   </br>
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   ![Redis](https://img.shields.io/badge/Redis-000?&style=for-the-badge&logo=Redis&logoColor=red)&nbsp;
   </br>
-  . . .
+    ➖➖➖➖
   </br>
   ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)&nbsp;
   ![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)&nbsp;
@@ -60,13 +66,13 @@
   ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)&nbsp;
   ![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)&nbsp;
   </br>
-  . . .
+    ➖➖➖➖
   </br>
   ![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)&nbsp;
   ![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)&nbsp;
   </br>
-  . . .
+    ➖➖➖➖
   </br>
   ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)&nbsp;
   ![Colab](https://img.shields.io/badge/Colab-000?style=for-the-badge&logo=googlecolab)&nbsp;
@@ -74,12 +80,12 @@
   ![Figma](https://img.shields.io/badge/-Figma-000?&style=for-the-badge&logo=figma)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-000?&style=for-the-badge&logo=Canva)&nbsp;
   </br>
-  . . .
+    ➖➖➖➖
   </br>
   ![Babel](https://img.shields.io/badge/-Babel-000?style=for-the-badge&logo=babel)&nbsp;
   ![Conda](https://img.shields.io/badge/-Conda-000?style=for-the-badge&logo=anaconda)&nbsp;
-  ![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=Webpack)&nbsp;
   ![jQuery](https://img.shields.io/badge/-jQuery-000?style=for-the-badge&logo=jquery)&nbsp;
+  ![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=Webpack)&nbsp;
   ![Eslint](https://img.shields.io/badge/-Eslint-000?style=for-the-badge&logo=eslint)&nbsp;
   ![Prettier](https://img.shields.io/badge/-Prettier-000?style=for-the-badge&logo=prettier)&nbsp;
   ![Microsoft_Excel](https://img.shields.io/badge/-Microsoft_Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green)&nbsp;
