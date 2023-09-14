@@ -66,12 +66,9 @@
   </br>
   ![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)&nbsp;
-  ![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)&nbsp;
-  </br>
-    ➖➖➖➖
-  </br>
   ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)&nbsp;
   ![Colab](https://img.shields.io/badge/Colab-000?style=for-the-badge&logo=googlecolab)&nbsp;
+  ![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=Discord)&nbsp;
   ![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello&logoColor=blue)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-000?&style=for-the-badge&logo=figma)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-000?&style=for-the-badge&logo=Canva)&nbsp;
