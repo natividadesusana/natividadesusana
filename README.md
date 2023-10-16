@@ -8,7 +8,7 @@
 🎓 &nbsp;Graduated in Full Stack Development from Driven Education.\
 🎓 &nbsp;In the process of graduating in Analysis and Systems Development at the University of the Itajaí Valley.\
 ⭐ &nbsp;You can find my projects in the repositories section.\
-💬 &nbsp;Ask me about anything! I don't know everything, but I'd love to know more.\
+💬 &nbsp;Feel free to connect with me.\
 🧩 &nbsp;Passionate about solving challenges.\
 ☕ &nbsp;I love coffee.\
 😄 &nbsp;Pronouns: She/Her.\
