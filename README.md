@@ -15,23 +15,23 @@
 
 <img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
 
-### *<samp>Professional Expertise:*
+### *<samp>Techs & Tools*
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="20%">
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" />
     </td>
-    <td align="center">
+    <td align="center" width="20%">
       <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript" />
     </td>
-    <td align="center">
+    <td align="center" width="20%">
       <img alt="React" src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
     </td>
-    <td align="center">
+    <td align="center" width="20%">
       <img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angularjs" />
     </td>
-    <td align="center">
+    <td align="center" width="20%">
       <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5" />
     </td>
   </tr>
@@ -114,7 +114,7 @@
       <img alt="EC2" src="https://img.shields.io/badge/-EC2-000?style=for-the-badge&logo=amazonaws" />
     </td>
     <td align="center">
-      <img alt="Postman" src="https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman" />
+      <img alt="Integration Tests" src="https://img.shields.io/badge/-Integration%20Tests-000?style=for-the-badge&logo=jest" />
     </td>
     <td align="center">
       <img alt="Figma" src="https://img.shields.io/badge/-Figma-000?&style=for-the-badge&logo=figma" />
@@ -134,7 +134,7 @@
       <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-000?style=for-the-badge&logo=datadog" />
     </td>
     <td align="center">
-      <img alt="Integration Tests" src="https://img.shields.io/badge/-Integration%20Tests-000?style=for-the-badge&logo=jest" />
+      <img alt="Postman" src="https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman" />
     </td>
   </tr>
   <tr>
@@ -174,16 +174,7 @@
 </table>
   
 <img src="https://github.com/natividadesusana/natividadesusana/assets/95102911/8fc06a5b-ddf4-4b7f-a858-43be8dd803c3" width="100%" height="10px">
-
-### *<samp>Connect with Me:*
-
-<div> 
-  <a href="https://www.linkedin.com/in/natividadesusana/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>&nbsp;
-  <a href = "mailto:susanajdsn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>&nbsp;
-  <a href="https://instagram.com/natividadesusana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>&nbsp;
-  
- #
-  
+<br><br>
 <details>
   <summary>:zap: <samp>GitHub Stats</summary>
   <img height="172em" alt="Susana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=natividadesusana&count_private=true&show_icons=true&theme=rose_pine&bg_color"/>
@@ -198,4 +189,13 @@
   <summary>:zap: <samp>Github Streak Stats</summary>
   <img height="172em" alt="Susana's GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=natividadesusana&theme=rose_pine&bg_color&hide=python"/>
 </details>
+
+#
+
+### *<samp>Connect with Me*
+
+  <a href="https://www.linkedin.com/in/natividadesusana/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>&nbsp;
+  <a href = "mailto:susanajdsn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>&nbsp;
+  <a href="https://instagram.com/natividadesusana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>&nbsp;
+  <a href="https://natividadesusana.com" target="_blank"><img src="https://img.shields.io/badge/-natividadesusana.com-000?style=for-the-badge&logo=realm&logoColor=white" target="_blank"></a>&nbsp;
 
