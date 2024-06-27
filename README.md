@@ -4,12 +4,12 @@
 
 <br>
 
-🎓 &nbsp;<samp>Graduated in Full Stack Development from Driven Education.\
-🎓 &nbsp;In the process of graduating in Analysis and Systems Development at the University of the Itajaí Valley.\
+🎓 &nbsp; <samp>Analysis and Systems Development.\
+🎓 &nbsp;Full Stack Web Development, Software Engineering.\
 ⭐ &nbsp;You can find my projects in the repositories section.\
 💬 &nbsp;Feel free to connect with me.\
 🧩 &nbsp;Passionate about solving challenges.\
-☕ &nbsp;I love coffee.\
+☕  &nbsp; I love coffee.\
 😄 &nbsp;Pronouns: She/Her.\
 🌍 &nbsp;Curiosity: I love exploring different cultures, learning new things and traveling the world.
 
