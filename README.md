@@ -1,6 +1,6 @@
 ## <samp>*Hi there!* 👋 
 
-<img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="450" height="300"/>
+<img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="420" height="260"/>
 
 <br>
 
@@ -9,7 +9,7 @@
 ⭐ &nbsp;You can find my projects in the repositories section.\
 💬 &nbsp;Feel free to connect with me.\
 🧩 &nbsp;Passionate about solving challenges.\
-☕  &nbsp; I love coffee.\
+🍵&nbsp; I love coffee.\
 😄 &nbsp;Pronouns: She/Her.\
 🌍 &nbsp;Curiosity: I love exploring different cultures, learning new things and traveling the world.
 
